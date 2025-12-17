@@ -8,5 +8,4 @@
 6) verifica stato con git status
 7) verifica branch di partenza (dovrebbe essere la repo originale non tua del file)
 8) crea nuova repo in remoto da github
-9) assegna nuova repo con git remote set-url e url della repo appena creata su github
-10) 
+9) assegna nuova repo con git remote set-url e url della repo appena creata su github 
